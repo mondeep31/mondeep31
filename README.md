@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **internships and opportunities**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mondeep31/](https://github.com/mondeep31/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mondeep31/)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **mondeep.work@gmail.com**
+- 📫 How to reach me **[Email](mondeep.work@gmail.com**)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17cIOAn_6VuhDFVQD-WIQJJ4Bb-M4ZBD1/view?usp=drive_link](https://drive.google.com/file/d/17cIOAn_6VuhDFVQD-WIQJJ4Bb-M4ZBD1/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17cIOAn_6VuhDFVQD-WIQJJ4Bb-M4ZBD1/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
