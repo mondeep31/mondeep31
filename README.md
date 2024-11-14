@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [CodeX](code-x-iota-six.vercel.app)
+- 🔭 I’m currently working on [CodeX](https://code-x-iota-six.vercel.app)
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
