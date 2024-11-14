@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **[Email](mondeep.work@gmail.com**)
+- 📫 How to reach me [Email](mondeep.work@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17cIOAn_6VuhDFVQD-WIQJJ4Bb-M4ZBD1/view?usp=drive_link)
 
