@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [CodeX](https://code-x-iota-six.vercel.app)
+- 🔭 I’m currently working on [CodeX](https://github.com/mondeep31/CodeX)
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [Email](mondeep.work@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17cIOAn_6VuhDFVQD-WIQJJ4Bb-M4ZBD1/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bVCp3LvVo3EebN3a3VuUhnG5IXgKRZW_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
